@@ -45,9 +45,13 @@
 
 ! appdynamics.com
 ||cdn.appdynamics.com
+||gru-col.eum-appdynamics.com
 
 ! apple.com
 ||cstat.apple.com
+
+! applovin.com
+||ms4.applovin.com
 
 ! appsflyer.com
 ||launches.appsflyer.com
@@ -157,6 +161,9 @@
 ! example.org
 ||example.org
 
+! evergage.com
+||itauunibanco2.us-4.evergage.com
+
 ! facebook.com
 ||graph.facebook.com
 
@@ -165,6 +172,9 @@
 
 ! fitanalytics.com
 ||integrations.fitanalytics.com
+
+! footprintdns.com
+||clo.footprintdns.com
 
 ! forter.com
 ||030d76ede737.cdn4.forter.com
@@ -298,6 +308,9 @@
 
 ! live.net
 ||skydrivesync.policies.live.net
+
+! logentries.com
+||data.logentries.com
 
 ! loox.io
 ||loox.io
@@ -449,6 +462,12 @@
 ! searchanise.com
 ||www.searchanise.com
 
+! segment.com
+||cdn-settings.segment.com
+
+! segment.io
+||api.segment.io
+
 ! sendpulse.com
 ||cdn.sendpulse.com
 
@@ -524,6 +543,7 @@
 
 ! unity3d.com
 ||config.uca.cloud.unity3d.com
+||configv2.unityads.unity3d.com
 
 ! urbanairship.com
 ||combine.urbanairship.com
