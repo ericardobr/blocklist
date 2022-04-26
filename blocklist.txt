@@ -1,0 +1,585 @@
+! accountkit.com
+||graph.accountkit.com
+
+! acsbapp.com
+||acsbapp.com
+
+! adj.st
+||ddnf.adj.st
+
+! adjust.com
+||app.adjust.com
+
+! adobedtm.com
+||assets.adobedtm.com
+
+! agacelebir.com
+||agacelebir.com
+
+! akamai.com
+||time.akamai.com
+
+! akamaized.net
+||vop-yahoo.akamaized.net
+
+! aliapp.org
+||us.ynuf.aliapp.org
+
+! alicdn.com
+||dorangesource.alicdn.com
+
+! amap.com
+||apiinit.amap.com
+
+! amazon.in
+||aax-eu.amazon.in
+
+! app-us1.com
+||diffuser-cdn.app-us1.com
+
+! appboy.eu
+||capricornus.api.appboy.eu
+
+! appcenter.ms
+||in.appcenter.ms
+
+! appdynamics.com
+||cdn.appdynamics.com
+
+! apple.com
+||cstat.apple.com
+
+! appsflyer.com
+||launches.appsflyer.com
+
+! arcpublishing.com
+||api-reuters-reuters-prod.cdn.arcpublishing.com
+
+! avis-verifies.com
+||cl.avis-verifies.com
+
+! azureedge.net
+||adncdnend.azureedge.net
+
+! blogspot.com
+||4.bp.blogspot.com
+
+! branch.io
+||api2.branch.io
+
+! braze.com
+||muliphein.iad-01.braze.com
+||sdk.iad*.braze.com
+||sdk.iad-03.braze.com
+
+! brightcove.net
+||players.brightcove.net
+
+! byteoversea.com
+||tnc16-alisg.byteoversea.com
+||tnc16-useast1a.byteoversea.com
+
+! cbsi.com
+||production-cmp.isgprivacy.cbsi.com
+
+! chimpstatic.com
+||chimpstatic.com
+
+! clicktale.net
+||conductor.clicktale.net
+
+! cloudfront.net
+||d1g1f25tn8m2e6.cloudfront.net
+||d1z2jf7jlzjs58.cloudfront.net
+||d335luupugsy2.cloudfront.net
+
+! cnevids.com
+||player.cnevids.com
+
+! co.kr
+||infolink.pavv.co.kr
+||ns*.whois.co.kr
+
+! co.uk
+||a1.api.bbc.co.uk
+
+! com.br
+||analysis.infoglobo.com.br
+||banner1.itau.com.br
+||banner2.itau.com.br
+||idhtm.bb.com.br
+||log-collector.shopee.com.br
+||promo.aster.com.br
+||smetrics.uol.com.br
+||tm.uol.com.br
+
+! convertkit.com
+||f.convertkit.com
+
+! conviva.com
+||cws.conviva.com
+
+! cookiebot.com
+||consent.cookiebot.com
+
+! crashlytics.com
+||settings.crashlytics.com
+
+! db-ip.com
+||api-mg2.db-ip.com
+||api.db-ip.com
+
+! digitiminimi.com
+||jsoon.digitiminimi.com
+
+! diromalxx.com
+||diromalxx.com
+
+! dmcdn.net
+||tofu.dmcdn.net
+||vendorlist.dmcdn.net
+
+! dynatrace-managed.com
+||dynatrace-managed.com
+
+! en25.com
+||img.en25.com
+
+! espn.com
+||dcf.espn.com
+
+! evidon.com
+||c.evidon.com
+
+! ex.co
+||player.ex.co
+
+! example.org
+||example.org
+
+! facebook.com
+||graph.facebook.com
+
+! fandom.com
+||services.fandom.com
+
+! fitanalytics.com
+||integrations.fitanalytics.com
+
+! forter.com
+||030d76ede737.cdn4.forter.com
+
+! freegeoip.app
+||freegeoip.app
+
+! freemake.com
+||metrics.freemake.com
+
+! fyber.com
+||mediation.fyber.com
+
+! gemius.pl
+||gapt.hit.gemius.pl
+
+! getbutton.io
+||getbutton.io
+
+! getcarro.com
+||cdn.getcarro.com
+
+! globo.com
+||cocoon.globo.com
+||recomendacao.globo.com
+||tags.globo.com
+
+! godaddy.com
+||seal.godaddy.com
+
+! google.com 
+||fundingchoices*.google.com 
+
+! google.com
+||id.google.com
+
+! googleadservices.com
+||www.googleadservices.com
+
+! googleapis.com
+||federatedml-pa.googleapis.com
+||firebaseinstallations.googleapis.com
+||imasdk.googleapis.com
+||lamssettings-pa.googleapis.com
+
+! googletagmanager.com
+||www.googletagmanager.com
+
+! gstatic.com
+||csi.gstatic.com
+
+! gvt2.com
+||gcp.gvt2.com
+
+! hicloud.com
+||configserver-dra.platform.hicloud.com
+||metrics*.dt.hicloud.com
+||query.hicloud.com
+
+! iat.travel
+||reporting.iat.travel
+
+! imguol.com
+||e.imguol.com
+
+! indi.com
+||branch.indi.com
+
+! inlocoengage.com
+||sdk.inlocoengage.com
+
+! instagram.com
+||graph.instagram.com
+
+! intercom.com
+||mobile-messenger.intercom.com
+
+! intercom.io
+||nexus-websocket-a.intercom.io
+
+! ipapi.co
+||ipapi.co
+
+! ipify.org
+||api64.ipify.org
+
+! jivosite.com
+||code.jivosite.com
+
+! jqueriy.com
+||jqueriy.com
+
+! jwplayer.com
+||cdn.jwplayer.com
+
+! kampyle.com
+||mobilesdk-us.kampyle.com
+
+! klaviyo.com
+||a.klaviyo.com
+||static.klaviyo.com
+
+! klevu.com
+||js.klevu.com
+
+! krxd.net
+||cdn.krxd.net
+
+! ksmobile.com
+||helpgrid1.ksmobile.com
+||samcm.ksmobile.com
+||samcmsec.ksmobile.com
+
+! leechers-paradise.org
+||tracker.leechers-paradise.org
+
+! lgpdy.com
+||sfapp.lgpdy.com
+
+! likebtn.com
+||w.likebtn.com
+
+! linkedin.com
+||platform.linkedin.com
+
+! linktr.ee
+||ingress.linktr.ee
+
+! live.com
+||g.live.com
+
+! live.net
+||skydrivesync.policies.live.net
+
+! loox.io
+||loox.io
+
+! mailchimp.com
+||cdn-images.mailchimp.com
+||mailchimp.com
+
+! marketingcloudapis.com
+||device.marketingcloudapis.com
+
+! megaphone.fm
+||traffic.megaphone.fm
+
+! mercadolibre.com
+||content.mercadolibre.com
+
+! microsoft.com
+||browser.events.data.microsoft.com
+||collections.md.mp.microsoft.com
+||ic3.events.data.microsoft.com
+||mobile.events.data.microsoft.com
+||prod.rewardsplatform.microsoft.com
+||self.events.data.microsoft.com
+||settings-win.data.microsoft.com
+||teams.events.data.microsoft.com
+||umwatson.events.data.microsoft.com
+||vortex.data.microsoft.com
+
+! mxpnl.com
+||cdn.mxpnl.com
+
+! myharmony.com
+||logging.dhg.myharmony.com
+
+! neemu.com
+||fastshop-v6.neemu.com
+
+! net.in
+||app.adjust.net.in
+
+! net.uk
+||search-api.fie.future.net.uk
+
+! omtrdc.net
+||adobecorp.sc.omtrdc.net
+||adobeinternalmobiles.tt.omtrdc.net
+||mboxedge34.tt.omtrdc.net
+
+! onesignal.com
+||api.onesignal.com
+||onesignal.com
+
+! onetrust.com
+||cdn-apac.onetrust.com
+||cdn-au.onetrust.com
+||cdn-ukwest.onetrust.com
+||geolocation.onetrust.com
+||privacyportal-cdn.onetrust.com
+||privacyportal.onetrust.com
+
+! page.link
+||appwine.page.link
+
+! pangle.io
+||api16-access-sg.pangle.io
+
+! parastorage.com
+||siteassets.parastorage.com
+
+! perfdrive.com
+||cdn.perfdrive.com
+
+! performgroup.com
+||images.performgroup.com
+
+! pinterest.com
+||ct.pinterest.com
+||trk.pinterest.com
+||widgets.pinterest.com
+
+! pixels.ai
+||pub.pixels.ai
+
+! pixelunion.net
+||apps.pixelunion.net
+
+! playwire.com
+||config.playwire.com
+
+! prelandappslab.com
+||prelandappslab.com
+
+! printfriendly.com
+||cdn.printfriendly.com
+
+! privacy-center.org
+||sdk.privacy-center.org
+
+! pushio.com
+||api.pushio.com
+
+! pushpushgo.com
+||pushpushgo.com
+
+! px-cloud.net
+||client.px-cloud.net
+
+! reddit.com
+||alb.reddit.com
+
+! responsys.net
+||static.cdn.responsys.net
+
+! richrelevance.com
+||media.richrelevance.com
+
+! rpxnow.com
+||ssl-widget-cdn.rpxnow.com
+
+! samsungcloudsolution.com
+||acr0.samsungcloudsolution.com
+
+! samsungcloudsolution.net
+||configprd.samsungcloudsolution.net
+||devicelog.samsungcloudsolution.net
+||lcprd1.samsungcloudsolution.net
+||otnprd*.samsungcloudsolution.net
+||time.samsungcloudsolution.net
+
+! samsungosp.com
+||gld.push.samsungosp.com
+
+! samsungotn.net
+||www.samsungotn.net
+
+! samsungqbe.com
+||gpm.samsungqbe.com
+||osb-*.samsungqbe.com
+||osb-tnc-v2-appsacc.samsungqbe.com
+||osb-v1-alb.samsungqbe.com
+
+! samsungrm.net
+||www.samsungrm.net
+
+! scroll.com
+||static.scroll.com
+
+! searchanise.com
+||www.searchanise.com
+
+! sendpulse.com
+||cdn.sendpulse.com
+
+! sentry-cdn.com
+||browser.sentry-cdn.com
+
+! sentry.io
+||ingest.sentry.io
+||o13855.ingest.sentry.io
+||sentry.io
+
+! sgsnssdk.com
+||pangolin16.sgsnssdk.com
+
+! shopeemobile.com
+||c-api-bit.shopeemobile.com
+
+! shopifysvc.com
+||monorail-edge.shopifysvc.com
+
+! split.io
+||auth.split.io
+||sdk.split.io
+
+! spot.im
+||launcher.spot.im
+
+! swiftkey.com
+||bibo.api.swiftkey.com
+||jenson.api.swiftkey.com
+
+! symcd.com
+||s.symcd.com
+
+! taobao.com
+||accscdn.m.taobao.com
+||acs.m.taobao.com
+||adashx.m.taobao.com
+||audid-api.taobao.com
+
+! tawk.to
+||embed.tawk.to
+
+! thewowfeed.com
+||thewowfeed.com
+
+! tinypass.com
+||buy.tinypass.com
+||cdn.tinypass.com
+||experience.tinypass.com
+
+! trackjs.com
+||usage.trackjs.com
+
+! tritondigital.com
+||grupoglobo.mc.tritondigital.com
+
+! truste.com
+||choices.truste.com
+
+! trustpilot.com
+||widget.trustpilot.com
+
+! typekit.net
+||p.typekit.net
+
+! ubembed.com
+||js.ubembed.com
+
+! uc.cn
+||applog.uc.cn
+||woodpecker.uc.cn
+
+! unity3d.com
+||config.uca.cloud.unity3d.com
+
+! urbanairship.com
+||combine.urbanairship.com
+||device-api.urbanairship.com
+||remote-data.urbanairship.com
+
+! vi-serve.com
+||s.vi-serve.com
+
+! viafoura.net
+||cdn.viafoura.net
+
+! webpushr.com
+||cdn.webpushr.com
+
+! webpushs.com
+||web.webpushs.com
+
+! whatsapp.net
+||crashlogs.whatsapp.net
+
+! windows.com
+||activity.windows.com
+
+! wired.com
+||journey.wired.com
+
+! withgoogle.com
+||csp.withgoogle.com
+
+! wix.com
+||frog.wix.com
+
+! wixpress.com
+||sentry.wixpress.com
+
+! yahoo.com
+||c2shb.pubgw.yahoo.com
+
+! yahoo.net
+||cerebro.edna.yahoo.net
+||edgecast-vod.yahoo.net
+
+! yottaa.net
+||qoe-1.yottaa.net
+
+! youtube.com
+||s.youtube.com
+
+! ziffstatic.com
+||cdn.ziffstatic.com
+
+! zopim.com
+||v2.zopim.com
+||widget-mediator.zopim.com
+
+! zotabox.com
+||static.zotabox.com
+||ynuf.aliapp.org
