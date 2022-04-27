@@ -82,7 +82,6 @@
 ! braze.com
 ||muliphein.iad-01.braze.com
 ||sdk.iad*.braze.com
-||sdk.iad-03.braze.com
 
 ! brightcove.net
 ||players.brightcove.net
@@ -117,8 +116,7 @@
 
 ! com.br
 ||analysis.infoglobo.com.br
-||banner1.itau.com.br
-||banner2.itau.com.br
+||banner*.itau.com.br
 ||idhtm.bb.com.br
 ||log-collector.shopee.com.br
 ||promo.aster.com.br
@@ -458,8 +456,6 @@
 ! samsungqbe.com
 ||gpm.samsungqbe.com
 ||osb-*.samsungqbe.com
-||osb-tnc-v2-appsacc.samsungqbe.com
-||osb-v1-alb.samsungqbe.com
 
 ! samsungrm.net
 ||www.samsungrm.net
@@ -483,8 +479,6 @@
 ||browser.sentry-cdn.com
 
 ! sentry.io
-||ingest.sentry.io
-||o13855.ingest.sentry.io
 ||sentry.io
 
 ! sgsnssdk.com
