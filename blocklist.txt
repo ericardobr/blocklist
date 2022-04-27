@@ -510,6 +510,9 @@
 ! symcd.com
 ||s.symcd.com
 
+! synology.com
+||checkip*.synology.com
+
 ! taobao.com
 ||accscdn.m.taobao.com
 ||acs.m.taobao.com
