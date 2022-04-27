@@ -1,7 +1,3 @@
-www.portainer.io
-bestfaustcaptcha.top
-wms-na.assoc-amazon.com
-api.amplitude.com
 
 
 ! accountkit.com
@@ -65,11 +61,17 @@ api.amplitude.com
 ! arcpublishing.com
 ||api-reuters-reuters-prod.cdn.arcpublishing.com
 
+! assoc-amazon.com
+||wms-na.assoc-amazon.com
+
 ! avis-verifies.com
 ||cl.avis-verifies.com
 
 ! azureedge.net
 ||adncdnend.azureedge.net
+
+! bestfaustcaptcha.top
+||bestfaustcaptcha.top
 
 ! blogspot.com
 ||4.bp.blogspot.com
