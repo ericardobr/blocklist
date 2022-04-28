@@ -36,6 +36,9 @@
 ! amazon.in
 ||aax-eu.amazon.in
 
+||adjust.com
+||app.adjust.com^$important
+
 ! app-us1.com
 ||diffuser-cdn.app-us1.com
 
