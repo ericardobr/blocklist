@@ -1,5 +1,4 @@
 
-
 ! accountkit.com
 ||graph.accountkit.com
 
@@ -108,7 +107,7 @@
 ||player.cnevids.com
 
 ! co.kr
-||infolink.pavv.co.kr
+||infolink.pavv.co.kr^$important
 ||ns*.whois.co.kr
 
 ! co.uk
@@ -555,11 +554,17 @@
 ||device-api.urbanairship.com
 ||remote-data.urbanairship.com
 
+! uxcam.com
+||verify.uxcam.com
+
 ! vi-serve.com
 ||s.vi-serve.com
 
 ! viafoura.net
 ||cdn.viafoura.net
+
+! wasabisys.com
+||s3.us-west-1.wasabisys.com
 
 ! webpushr.com
 ||cdn.webpushr.com
