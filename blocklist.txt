@@ -9,7 +9,7 @@
 ||ddnf.adj.st
 
 ! adjust.com
-||app.adjust.com
+||app.adjust.com^$important
 
 ! adobedtm.com
 ||assets.adobedtm.com
@@ -25,6 +25,9 @@
 
 ! aliapp.org
 ||us.ynuf.aliapp.org
+
+! alibaba.com
+||img.alibaba.com
 
 ! alicdn.com
 ||dorangesource.alicdn.com
@@ -65,6 +68,9 @@
 
 ! avis-verifies.com
 ||cl.avis-verifies.com
+
+! awin1.com
+||fonts.awin1.com
 
 ! azureedge.net
 ||adncdnend.azureedge.net
@@ -133,6 +139,9 @@
 
 ! crashlytics.com
 ||settings.crashlytics.com
+
+! cxense.com
+||cdn.cxense.com
 
 ! db-ip.com
 ||api-mg2.db-ip.com
@@ -265,6 +274,7 @@
 
 ! ipify.org
 ||api64.ipify.org
+||api.ipify.org
 
 ! jivosite.com
 ||code.jivosite.com
@@ -315,7 +325,7 @@
 ||skydrivesync.policies.live.net
 
 ! logentries.com
-||data.logentries.com
+||data.logentries.com^$important
 
 ! loox.io
 ||loox.io
@@ -376,6 +386,9 @@
 ||geolocation.onetrust.com
 ||privacyportal-cdn.onetrust.com
 ||privacyportal.onetrust.com
+
+! online-metrix.net
+||h-sdk.online-metrix.net
 
 ! page.link
 ||appwine.page.link
