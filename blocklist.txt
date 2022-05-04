@@ -38,6 +38,9 @@
 ! amazon.in
 ||aax-eu.amazon.in
 
+! anm.co.uk
+||hulkprod.anm.co.uk
+
 ! app-us1.com
 ||diffuser-cdn.app-us1.com
 
