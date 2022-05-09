@@ -5,6 +5,9 @@
 ! acsbapp.com
 ||acsbapp.com
 
+! activehosted.com
+||activehosted.com^$important
+
 ! adj.st
 ||ddnf.adj.st
 
@@ -28,6 +31,7 @@
 
 ! alibaba.com
 ||img.alibaba.com
+||jmacs.m.alibaba.com
 
 ! alicdn.com
 ||dorangesource.alicdn.com
@@ -64,16 +68,25 @@
 ||launches.appsflyer.com
 
 ! arcpublishing.com
-||api-reuters-reuters-prod.cdn.arcpublishing.com
+||arcpublishing.com
 
 ! assoc-amazon.com
 ||wms-na.assoc-amazon.com
+
+! avantisvideo.com
+||avantisvideo.com^$important
 
 ! avis-verifies.com
 ||cl.avis-verifies.com
 
 ! awin1.com
 ||fonts.awin1.com
+
+! awstrack.me
+||awstrack.me^$important
+
+! azionrum.net
+||client.azionrum.net
 
 ! azureedge.net
 ||adncdnend.azureedge.net
@@ -143,6 +156,9 @@
 ! crashlytics.com
 ||settings.crashlytics.com
 
+! crwdcntrl.net
+||crwdcntrl.net^$important
+
 ! cxense.com
 ||cdn.cxense.com
 
@@ -162,6 +178,12 @@
 
 ! dynatrace-managed.com
 ||dynatrace-managed.com
+
+! elastic.co
+||info.elastic.co
+
+! embed.ly
+||embed.ly^$important
 
 ! en25.com
 ||img.en25.com
@@ -234,7 +256,7 @@
 ! googleapis.com
 ||federatedml-pa.googleapis.com
 ||firebaseinstallations.googleapis.com
-||imasdk.googleapis.com
+||imasdk.googleapis.com^$important
 ||lamssettings-pa.googleapis.com
 
 ! googletagmanager.com
@@ -271,6 +293,7 @@
 
 ! intercom.io
 ||nexus-websocket-a.intercom.io
+||widget.intercom.io
 
 ! ipapi.co
 ||ipapi.co
@@ -278,6 +301,9 @@
 ! ipify.org
 ||api64.ipify.org
 ||api.ipify.org
+
+! imrworldwide.com
+||imrworldwide.com
 
 ! jivosite.com
 ||code.jivosite.com
@@ -302,9 +328,7 @@
 ||cdn.krxd.net
 
 ! ksmobile.com
-||helpgrid1.ksmobile.com
-||samcm.ksmobile.com
-||samcmsec.ksmobile.com
+||ksmobile.com^$important
 
 ! leechers-paradise.org
 ||tracker.leechers-paradise.org
@@ -374,9 +398,11 @@
 ||search-api.fie.future.net.uk
 
 ! omtrdc.net
-||adobecorp.sc.omtrdc.net
-||adobeinternalmobiles.tt.omtrdc.net
-||mboxedge34.tt.omtrdc.net
+||sc.omtrdc.net
+||tt.omtrdc.net
+
+! onelink.me
+@@||wine.onelink.me^$client='S20-FE'
 
 ! onesignal.com
 ||api.onesignal.com
@@ -391,7 +417,7 @@
 ||privacyportal.onetrust.com
 
 ! online-metrix.net
-||h-sdk.online-metrix.net
+||h-sdk.online-metrix.net^$important
 
 ! page.link
 ||appwine.page.link
@@ -407,6 +433,9 @@
 
 ! performgroup.com
 ||images.performgroup.com
+
+! piano.io
+||c2.piano.io
 
 ! pinterest.com
 ||ct.pinterest.com
@@ -439,6 +468,9 @@
 
 ! px-cloud.net
 ||client.px-cloud.net
+
+! qualtrics.com
+||qualtrics.com^$important
 
 ! reddit.com
 ||alb.reddit.com
@@ -475,6 +507,9 @@
 ! samsungrm.net
 ||www.samsungrm.net
 
+! sectigo.com
+||globaltrust.crt.sectigo.com
+
 ! scroll.com
 ||static.scroll.com
 
@@ -499,11 +534,17 @@
 ! sgsnssdk.com
 ||pangolin16.sgsnssdk.com
 
+! shareaholic.net
+||www.shareaholic.net^$important
+
 ! shopeemobile.com
 ||c-api-bit.shopeemobile.com
 
 ! shopifysvc.com
 ||monorail-edge.shopifysvc.com
+
+! skype.com
+||go.trouter.skype.com
 
 ! split.io
 ||auth.split.io
@@ -515,6 +556,9 @@
 ! swiftkey.com
 ||bibo.api.swiftkey.com
 ||jenson.api.swiftkey.com
+
+! swiftype.com
+||swiftype.com
 
 ! symcd.com
 ||s.symcd.com
@@ -530,6 +574,9 @@
 
 ! tawk.to
 ||embed.tawk.to
+
+! telecineplay.com.br
+||cdn.telecineplay.com.br^$dnsrewrite=0.0.0.0
 
 ! thewowfeed.com
 ||thewowfeed.com
