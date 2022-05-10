@@ -276,6 +276,9 @@
 ! iat.travel
 ||reporting.iat.travel
 
+! iconurl.com
+||iconurl.com
+
 ! imguol.com
 ||e.imguol.com
 
