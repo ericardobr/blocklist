@@ -45,6 +45,9 @@
 ! anm.co.uk
 ||hulkprod.anm.co.uk
 
+! app.link
+||app.link^$important
+
 ! app-us1.com
 ||diffuser-cdn.app-us1.com
 
@@ -53,6 +56,9 @@
 
 ! appcenter.ms
 ||in.appcenter.ms
+
+! appcues.com
+||fast.appcues.com^$important
 
 ! appdynamics.com
 ||cdn.appdynamics.com
@@ -166,6 +172,9 @@
 ||api-mg2.db-ip.com
 ||api.db-ip.com
 
+! depositphotos.com
+||pt-pt.depositphotos.com^$important
+
 ! digitiminimi.com
 ||jsoon.digitiminimi.com
 
@@ -175,6 +184,9 @@
 ! dmcdn.net
 ||tofu.dmcdn.net
 ||vendorlist.dmcdn.net
+
+! dotomi.com
+||font.cj.dotomi.com^$important
 
 ! dynatrace-managed.com
 ||dynatrace-managed.com
@@ -196,6 +208,9 @@
 
 ! ex.co
 ||player.ex.co
+
+! exacttarget.com
+||click.virt.s*.exacttarget.com^$important
 
 ! example.org
 ||example.org
@@ -241,6 +256,10 @@
 ||recomendacao.globo.com
 ||tags.globo.com
 
+! go2cloud.org
+||www.fonts.go2cloud.org^$important
+
+
 ! godaddy.com
 ||seal.godaddy.com
 
@@ -272,6 +291,11 @@
 ||configserver-dra.platform.hicloud.com
 ||metrics*.dt.hicloud.com
 ||query.hicloud.com
+
+! hubspot.net
+||cdn*.hubspot.net^$important
+||no-cache.hubspot.com^$important
+||app.hubspot.com^$important
 
 ! iat.travel
 ||reporting.iat.travel
@@ -350,6 +374,7 @@
 
 ! live.com
 ||g.live.com
+||presence.teams.live.com^$important
 
 ! live.net
 ||skydrivesync.policies.live.net
@@ -359,6 +384,9 @@
 
 ! loox.io
 ||loox.io
+
+! mail.ru
+||top.mail.ru^$important
 
 ! mailchimp.com
 ||cdn-images.mailchimp.com
@@ -384,6 +412,9 @@
 ||teams.events.data.microsoft.com
 ||umwatson.events.data.microsoft.com
 ||vortex.data.microsoft.com
+
+! msecnd.net
+||vo.msecnd.net^$important
 
 ! mxpnl.com
 ||cdn.mxpnl.com
@@ -454,6 +485,9 @@
 ! playwire.com
 ||config.playwire.com
 
+! pornhub.com
+||hubt.pornhub.com
+
 ! prelandappslab.com
 ||prelandappslab.com
 
@@ -484,6 +518,9 @@
 ! richrelevance.com
 ||media.richrelevance.com
 
+! rollout.io
+||push.rollout.io^$important
+
 ! rpxnow.com
 ||ssl-widget-cdn.rpxnow.com
 
@@ -506,6 +543,8 @@
 ! samsungqbe.com
 ||gpm.samsungqbe.com
 ||osb-*.samsungqbe.com
+||tls.samsungqbe.com^$important
+||stc.samsungqbe.com^$important
 
 ! samsungrm.net
 ||www.samsungrm.net
@@ -534,11 +573,17 @@
 ! sentry.io
 ||sentry.io
 
+! seucreditodigital.com.br
+||conteudo.seucreditodigital.com.br^$important
+
 ! sgsnssdk.com
 ||pangolin16.sgsnssdk.com
 
 ! shareaholic.net
 ||www.shareaholic.net^$important
+
+! shareasale.com
+||fonts.shareasale.com^$important
 
 ! shopeemobile.com
 ||c-api-bit.shopeemobile.com
@@ -555,6 +600,7 @@
 
 ! spot.im
 ||launcher.spot.im
+||seo.spot.im^$important
 
 ! swiftkey.com
 ||bibo.api.swiftkey.com
@@ -578,6 +624,8 @@
 ! tawk.to
 ||embed.tawk.to
 
+
+
 ! telecineplay.com.br
 ||cdn.telecineplay.com.br^$dnsrewrite=0.0.0.0
 
@@ -593,7 +641,7 @@
 ||usage.trackjs.com
 
 ! tritondigital.com
-||grupoglobo.mc.tritondigital.com
+||*.mc.tritondigital.com
 
 ! truste.com
 ||choices.truste.com
