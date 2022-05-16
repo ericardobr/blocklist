@@ -259,7 +259,6 @@
 ! go2cloud.org
 ||www.fonts.go2cloud.org^$important
 
-
 ! godaddy.com
 ||seal.godaddy.com
 
