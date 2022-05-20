@@ -72,6 +72,7 @@
 
 ! appsflyer.com
 ||launches.appsflyer.com
+||app.appsflyer.com^$important
 
 ! arcpublishing.com
 ||arcpublishing.com
@@ -116,6 +117,9 @@
 ! byteoversea.com
 ||tnc16-alisg.byteoversea.com
 ||tnc16-useast1a.byteoversea.com
+
+! cbc.ca
+||login.cbc.ca^$important
 
 ! cbsi.com
 ||production-cmp.isgprivacy.cbsi.com
@@ -623,8 +627,6 @@
 ! tawk.to
 ||embed.tawk.to
 
-
-
 ! telecineplay.com.br
 ||cdn.telecineplay.com.br^$dnsrewrite=0.0.0.0
 
@@ -636,8 +638,14 @@
 ||cdn.tinypass.com
 ||experience.tinypass.com
 
+! tiqcdn.com
+||akamai.tiqcdn.com^$important
+
 ! trackjs.com
 ||usage.trackjs.com
+
+! trinitymedia.ai
+||trinitymedia.ai^$important
 
 ! tritondigital.com
 ||*.mc.tritondigital.com
