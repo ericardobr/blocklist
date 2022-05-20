@@ -1,16 +1,18 @@
 
-
 ! accountkit.com
 ||graph.accountkit.com
 
 ! acsbapp.com
 ||acsbapp.com
 
+! activehosted.com
+||activehosted.com^$important
+
 ! adj.st
 ||ddnf.adj.st
 
 ! adjust.com
-||app.adjust.com
+||app.adjust.com^$important
 
 ! adobedtm.com
 ||assets.adobedtm.com
@@ -27,6 +29,10 @@
 ! aliapp.org
 ||us.ynuf.aliapp.org
 
+! alibaba.com
+||img.alibaba.com
+||jmacs.m.alibaba.com
+
 ! alicdn.com
 ||dorangesource.alicdn.com
 
@@ -36,8 +42,11 @@
 ! amazon.in
 ||aax-eu.amazon.in
 
-||adjust.com
-||app.adjust.com^$important
+! anm.co.uk
+||hulkprod.anm.co.uk
+
+! app.link
+||app.link^$important
 
 ! app-us1.com
 ||diffuser-cdn.app-us1.com
@@ -47,6 +56,9 @@
 
 ! appcenter.ms
 ||in.appcenter.ms
+
+! appcues.com
+||fast.appcues.com^$important
 
 ! appdynamics.com
 ||cdn.appdynamics.com
@@ -62,13 +74,25 @@
 ||launches.appsflyer.com
 
 ! arcpublishing.com
-||api-reuters-reuters-prod.cdn.arcpublishing.com
+||arcpublishing.com
 
 ! assoc-amazon.com
 ||wms-na.assoc-amazon.com
 
+! avantisvideo.com
+||avantisvideo.com^$important
+
 ! avis-verifies.com
 ||cl.avis-verifies.com
+
+! awin1.com
+||fonts.awin1.com
+
+! awstrack.me
+||awstrack.me^$important
+
+! azionrum.net
+||client.azionrum.net
 
 ! azureedge.net
 ||adncdnend.azureedge.net
@@ -111,7 +135,7 @@
 ||player.cnevids.com
 
 ! co.kr
-||infolink.pavv.co.kr
+||infolink.pavv.co.kr^$important
 ||ns*.whois.co.kr
 
 ! co.uk
@@ -138,9 +162,18 @@
 ! crashlytics.com
 ||settings.crashlytics.com
 
+! crwdcntrl.net
+||crwdcntrl.net^$important
+
+! cxense.com
+||cdn.cxense.com
+
 ! db-ip.com
 ||api-mg2.db-ip.com
 ||api.db-ip.com
+
+! depositphotos.com
+||pt-pt.depositphotos.com^$important
 
 ! digitiminimi.com
 ||jsoon.digitiminimi.com
@@ -152,8 +185,17 @@
 ||tofu.dmcdn.net
 ||vendorlist.dmcdn.net
 
+! dotomi.com
+||font.cj.dotomi.com^$important
+
 ! dynatrace-managed.com
 ||dynatrace-managed.com
+
+! elastic.co
+||info.elastic.co
+
+! embed.ly
+||embed.ly^$important
 
 ! en25.com
 ||img.en25.com
@@ -166,6 +208,9 @@
 
 ! ex.co
 ||player.ex.co
+
+! exacttarget.com
+||click.virt.s*.exacttarget.com^$important
 
 ! example.org
 ||example.org
@@ -211,6 +256,9 @@
 ||recomendacao.globo.com
 ||tags.globo.com
 
+! go2cloud.org
+||www.fonts.go2cloud.org^$important
+
 ! godaddy.com
 ||seal.godaddy.com
 
@@ -226,7 +274,7 @@
 ! googleapis.com
 ||federatedml-pa.googleapis.com
 ||firebaseinstallations.googleapis.com
-||imasdk.googleapis.com
+||imasdk.googleapis.com^$important
 ||lamssettings-pa.googleapis.com
 
 ! googletagmanager.com
@@ -243,8 +291,16 @@
 ||metrics*.dt.hicloud.com
 ||query.hicloud.com
 
+! hubspot.net
+||cdn*.hubspot.net^$important
+||no-cache.hubspot.com^$important
+||app.hubspot.com^$important
+
 ! iat.travel
 ||reporting.iat.travel
+
+! iconurl.com
+||iconurl.com
 
 ! imguol.com
 ||e.imguol.com
@@ -263,12 +319,17 @@
 
 ! intercom.io
 ||nexus-websocket-a.intercom.io
+||widget.intercom.io
 
 ! ipapi.co
 ||ipapi.co
 
 ! ipify.org
 ||api64.ipify.org
+||api.ipify.org
+
+! imrworldwide.com
+||imrworldwide.com
 
 ! jivosite.com
 ||code.jivosite.com
@@ -293,9 +354,7 @@
 ||cdn.krxd.net
 
 ! ksmobile.com
-||helpgrid1.ksmobile.com
-||samcm.ksmobile.com
-||samcmsec.ksmobile.com
+||ksmobile.com^$important
 
 ! leechers-paradise.org
 ||tracker.leechers-paradise.org
@@ -314,15 +373,19 @@
 
 ! live.com
 ||g.live.com
+||presence.teams.live.com^$important
 
 ! live.net
 ||skydrivesync.policies.live.net
 
 ! logentries.com
-||data.logentries.com
+||data.logentries.com^$important
 
 ! loox.io
 ||loox.io
+
+! mail.ru
+||top.mail.ru^$important
 
 ! mailchimp.com
 ||cdn-images.mailchimp.com
@@ -349,6 +412,9 @@
 ||umwatson.events.data.microsoft.com
 ||vortex.data.microsoft.com
 
+! msecnd.net
+||vo.msecnd.net^$important
+
 ! mxpnl.com
 ||cdn.mxpnl.com
 
@@ -365,9 +431,11 @@
 ||search-api.fie.future.net.uk
 
 ! omtrdc.net
-||adobecorp.sc.omtrdc.net
-||adobeinternalmobiles.tt.omtrdc.net
-||mboxedge34.tt.omtrdc.net
+||sc.omtrdc.net
+||tt.omtrdc.net
+
+! onelink.me
+@@||wine.onelink.me^$client='S20-FE'
 
 ! onesignal.com
 ||api.onesignal.com
@@ -380,6 +448,9 @@
 ||geolocation.onetrust.com
 ||privacyportal-cdn.onetrust.com
 ||privacyportal.onetrust.com
+
+! online-metrix.net
+||h-sdk.online-metrix.net^$important
 
 ! page.link
 ||appwine.page.link
@@ -396,6 +467,9 @@
 ! performgroup.com
 ||images.performgroup.com
 
+! piano.io
+||c2.piano.io
+
 ! pinterest.com
 ||ct.pinterest.com
 ||trk.pinterest.com
@@ -409,6 +483,9 @@
 
 ! playwire.com
 ||config.playwire.com
+
+! pornhub.com
+||hubt.pornhub.com
 
 ! prelandappslab.com
 ||prelandappslab.com
@@ -428,6 +505,9 @@
 ! px-cloud.net
 ||client.px-cloud.net
 
+! qualtrics.com
+||qualtrics.com^$important
+
 ! reddit.com
 ||alb.reddit.com
 
@@ -436,6 +516,9 @@
 
 ! richrelevance.com
 ||media.richrelevance.com
+
+! rollout.io
+||push.rollout.io^$important
 
 ! rpxnow.com
 ||ssl-widget-cdn.rpxnow.com
@@ -459,9 +542,14 @@
 ! samsungqbe.com
 ||gpm.samsungqbe.com
 ||osb-*.samsungqbe.com
+||tls.samsungqbe.com^$important
+||stc.samsungqbe.com^$important
 
 ! samsungrm.net
 ||www.samsungrm.net
+
+! sectigo.com
+||globaltrust.crt.sectigo.com
 
 ! scroll.com
 ||static.scroll.com
@@ -484,8 +572,17 @@
 ! sentry.io
 ||sentry.io
 
+! seucreditodigital.com.br
+||conteudo.seucreditodigital.com.br^$important
+
 ! sgsnssdk.com
 ||pangolin16.sgsnssdk.com
+
+! shareaholic.net
+||www.shareaholic.net^$important
+
+! shareasale.com
+||fonts.shareasale.com^$important
 
 ! shopeemobile.com
 ||c-api-bit.shopeemobile.com
@@ -493,16 +590,23 @@
 ! shopifysvc.com
 ||monorail-edge.shopifysvc.com
 
+! skype.com
+||go.trouter.skype.com
+
 ! split.io
 ||auth.split.io
 ||sdk.split.io
 
 ! spot.im
 ||launcher.spot.im
+||seo.spot.im^$important
 
 ! swiftkey.com
 ||bibo.api.swiftkey.com
 ||jenson.api.swiftkey.com
+
+! swiftype.com
+||swiftype.com
 
 ! symcd.com
 ||s.symcd.com
@@ -519,6 +623,11 @@
 ! tawk.to
 ||embed.tawk.to
 
+
+
+! telecineplay.com.br
+||cdn.telecineplay.com.br^$dnsrewrite=0.0.0.0
+
 ! thewowfeed.com
 ||thewowfeed.com
 
@@ -531,7 +640,7 @@
 ||usage.trackjs.com
 
 ! tritondigital.com
-||grupoglobo.mc.tritondigital.com
+||*.mc.tritondigital.com
 
 ! truste.com
 ||choices.truste.com
@@ -558,11 +667,17 @@
 ||device-api.urbanairship.com
 ||remote-data.urbanairship.com
 
+! uxcam.com
+||verify.uxcam.com
+
 ! vi-serve.com
 ||s.vi-serve.com
 
 ! viafoura.net
 ||cdn.viafoura.net
+
+! wasabisys.com
+||s3.us-west-1.wasabisys.com
 
 ! webpushr.com
 ||cdn.webpushr.com
