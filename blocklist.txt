@@ -87,7 +87,7 @@
 ||cl.avis-verifies.com
 
 ! awin1.com
-||fonts.awin1.com
+||fonts.awin1.com^$important
 
 ! awstrack.me
 ||awstrack.me^$important
@@ -153,6 +153,9 @@
 ||promo.aster.com.br
 ||smetrics.uol.com.br
 ||tm.uol.com.br
+
+! convergeselect.net
+||cpm.convergeselect.net^$important
 
 ! convertkit.com
 ||f.convertkit.com
@@ -255,6 +258,9 @@
 ! getcarro.com
 ||cdn.getcarro.com
 
+! github.com
+||collector.github.com^$important
+
 ! globo.com
 ||cocoon.globo.com
 ||recomendacao.globo.com
@@ -325,6 +331,9 @@
 ||nexus-websocket-a.intercom.io
 ||widget.intercom.io
 
+! internetdefenseleague.org
+||www.internetdefenseleague.org
+
 ! ipapi.co
 ||ipapi.co
 
@@ -340,9 +349,6 @@
 
 ! jqueriy.com
 ||jqueriy.com
-
-! jwplayer.com
-||cdn.jwplayer.com
 
 ! kampyle.com
 ||mobilesdk-us.kampyle.com
@@ -597,6 +603,9 @@
 ! skype.com
 ||go.trouter.skype.com
 
+! soundcloud.com
+||l9bjkkhaycw6f8f4.soundcloud.com^$important
+
 ! split.io
 ||auth.split.io
 ||sdk.split.io
@@ -656,6 +665,9 @@
 ! trustpilot.com
 ||widget.trustpilot.com
 
+! tumblr.com
+||px.srvcs.tumblr.com^$important
+
 ! typekit.net
 ||p.typekit.net
 
@@ -683,6 +695,9 @@
 
 ! viafoura.net
 ||cdn.viafoura.net
+
+! vuukle.com
+||cdn.vuukle.com^$important
 
 ! wasabisys.com
 ||s3.us-west-1.wasabisys.com
