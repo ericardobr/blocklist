@@ -1,4 +1,3 @@
-
 ! accountkit.com
 ||graph.accountkit.com
 
@@ -13,6 +12,9 @@
 
 ! adjust.com
 ||app.adjust.com^$important
+
+! adobe-campaign.com
+||samsungeucdm-mid-stage3-t.adobe-campaign.com^$important
 
 ! adobedtm.com
 ||assets.adobedtm.com
@@ -126,6 +128,9 @@
 
 ! chimpstatic.com
 ||chimpstatic.com
+
+! clearbit.com
+||hubspot.clearbit.com^$important
 
 ! clicktale.net
 ||conductor.clicktale.net
@@ -266,6 +271,9 @@
 ||recomendacao.globo.com
 ||tags.globo.com
 
+! goadopt.io
+||disclaimer-api.goadopt.io^$important
+
 ! go2cloud.org
 ||www.fonts.go2cloud.org^$important
 
@@ -334,12 +342,19 @@
 ! internetdefenseleague.org
 ||www.internetdefenseleague.org
 
+! ip-api.com
+||pro.ip-api.com^$important
+
 ! ipapi.co
 ||ipapi.co
+
 
 ! ipify.org
 ||api64.ipify.org
 ||api.ipify.org
+
+! ipinfo.io
+||ipinfo.io^$important
 
 ! imrworldwide.com
 ||imrworldwide.com
@@ -422,8 +437,17 @@
 ||umwatson.events.data.microsoft.com
 ||vortex.data.microsoft.com
 
+! mlcdn.com.br
+||d.mlcdn.com.br^$important
+
+! mmstat.com
+||log.mmstat.com^$important
+
 ! msecnd.net
 ||vo.msecnd.net^$important
+
+! msedge.net
+||evoke-windowsservices-tas.msedge.net^$important
 
 ! mxpnl.com
 ||cdn.mxpnl.com
@@ -518,6 +542,9 @@
 ! qualtrics.com
 ||qualtrics.com^$important
 
+! rds.land
+||sindiconet.rds.land^$important
+
 ! reddit.com
 ||alb.reddit.com
 
@@ -535,6 +562,7 @@
 
 ! samsungcloudsolution.com
 ||acr0.samsungcloudsolution.com
+||fkpprd.samsungcloudsolution.com^$important
 
 ! samsungcloudsolution.net
 ||configprd.samsungcloudsolution.net
@@ -652,6 +680,9 @@
 
 ! trackjs.com
 ||usage.trackjs.com
+
+! tradedoubler.com
+||clk.tradedoubler.com^$important
 
 ! trinitymedia.ai
 ||trinitymedia.ai^$important
