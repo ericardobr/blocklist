@@ -82,6 +82,9 @@
 ! assoc-amazon.com
 ||wms-na.assoc-amazon.com
 
+! auvo.com
+||www.auvo.com^$important
+
 ! avantisvideo.com
 ||avantisvideo.com^$important
 
@@ -100,11 +103,20 @@
 ! azureedge.net
 ||adncdnend.azureedge.net
 
+! bbvms.com
+||gamernetwork.bbvms.com^$important
+
 ! bestfaustcaptcha.top
 ||bestfaustcaptcha.top
 
+! bibblio.org
+||api.bibblio.org^$important
+
 ! blogspot.com
 ||4.bp.blogspot.com
+
+! bordbia.ie
+||www.bordbia.ie^$important
 
 ! branch.io
 ||api2.branch.io
@@ -115,6 +127,9 @@
 
 ! brightcove.net
 ||players.brightcove.net
+
+! bufferapp.com
+||api.bufferapp.com^$important
 
 ! byteoversea.com
 ||tnc16-alisg.byteoversea.com
@@ -205,6 +220,9 @@
 
 ! elastic.co
 ||info.elastic.co
+
+! eloqua.com
+||secure.eloqua.com^$important
 
 ! embed.ly
 ||embed.ly^$important
@@ -310,9 +328,7 @@
 ||query.hicloud.com
 
 ! hubspot.net
-||cdn*.hubspot.net^$important
-||no-cache.hubspot.com^$important
-||app.hubspot.com^$important
+||hubspot.net^$important
 
 ! iat.travel
 ||reporting.iat.travel
@@ -348,7 +364,6 @@
 ! ipapi.co
 ||ipapi.co
 
-
 ! ipify.org
 ||api64.ipify.org
 ||api.ipify.org
@@ -358,6 +373,9 @@
 
 ! imrworldwide.com
 ||imrworldwide.com
+
+! istole.it
+||tracker.istole.it^$important
 
 ! jivosite.com
 ||code.jivosite.com
@@ -369,8 +387,7 @@
 ||mobilesdk-us.kampyle.com
 
 ! klaviyo.com
-||a.klaviyo.com
-||static.klaviyo.com
+||klaviyo.com^$important
 
 ! klevu.com
 ||js.klevu.com
@@ -464,6 +481,9 @@
 ! net.uk
 ||search-api.fie.future.net.uk
 
+! novvalight.com.br
+||led.novvalight.com.br^$important
+
 ! omtrdc.net
 ||sc.omtrdc.net
 ||tt.omtrdc.net
@@ -494,6 +514,9 @@
 
 ! parastorage.com
 ||siteassets.parastorage.com
+
+! pcrl.co
+||assets.pcrl.co^$important
 
 ! perfdrive.com
 ||cdn.perfdrive.com
@@ -529,6 +552,9 @@
 
 ! privacy-center.org
 ||sdk.privacy-center.org
+
+! publichd.eu
+||tracker.publichd.eu^$important
 
 ! pushio.com
 ||api.pushio.com
@@ -664,8 +690,14 @@
 ! tawk.to
 ||embed.tawk.to
 
+! techtarget.com
+||www.techtarget.com^$important
+
 ! telecineplay.com.br
 ||cdn.telecineplay.com.br^$dnsrewrite=0.0.0.0
+
+! theguardian.com
+||hits-secure.theguardian.com^$important
 
 ! thewowfeed.com
 ||thewowfeed.com
@@ -691,7 +723,7 @@
 ||*.mc.tritondigital.com
 
 ! truste.com
-||choices.truste.com
+||truste.com
 
 ! trustpilot.com
 ||widget.trustpilot.com
