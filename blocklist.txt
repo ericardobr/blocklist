@@ -1,3 +1,5 @@
+
+
 ! accountkit.com
 ||graph.accountkit.com
 
@@ -37,6 +39,9 @@
 
 ! alicdn.com
 ||dorangesource.alicdn.com
+
+! allin.com.br
+||redirect.allin.com.br^$important
 
 ! amap.com
 ||apiinit.amap.com
@@ -106,11 +111,17 @@
 ! bbvms.com
 ||gamernetwork.bbvms.com^$important
 
+! bemparana.com.br
+||amp.bemparana.com.br^$important
+
 ! bestfaustcaptcha.top
 ||bestfaustcaptcha.top
 
 ! bibblio.org
 ||api.bibblio.org^$important
+
+! blaroken.com
+||www.blaroken.com^$important
 
 ! blogspot.com
 ||4.bp.blogspot.com
@@ -254,6 +265,10 @@
 ! fandom.com
 ||services.fandom.com
 
+! figshare.com
+||widgets.figshare.com^$important
+||api.figshare.com^$important
+
 ! fitanalytics.com
 ||integrations.fitanalytics.com
 
@@ -326,6 +341,12 @@
 ||configserver-dra.platform.hicloud.com
 ||metrics*.dt.hicloud.com
 ||query.hicloud.com
+
+! hotjar.com
+#@@||static.hotjar.com
+#@@||vars.hotjar.com
+#@@||script.hotjar.com
+#@@||in.hotjar.com
 
 ! hubspot.net
 ||hubspot.net^$important
@@ -430,8 +451,7 @@
 ||top.mail.ru^$important
 
 ! mailchimp.com
-||cdn-images.mailchimp.com
-||mailchimp.com
+@@||Mailchi.mp^$important
 
 ! marketingcloudapis.com
 ||device.marketingcloudapis.com
@@ -441,6 +461,9 @@
 
 ! mercadolibre.com
 ||content.mercadolibre.com
+
+! mi.com
+@@||us.api.io.mi.com^$important
 
 ! microsoft.com
 ||browser.events.data.microsoft.com
@@ -745,6 +768,9 @@
 ||config.uca.cloud.unity3d.com
 ||configv2.unityads.unity3d.com
 
+! unpkg.com
+||unpkg.com^$important
+
 ! urbanairship.com
 ||combine.urbanairship.com
 ||device-api.urbanairship.com
@@ -788,6 +814,9 @@
 
 ! wixpress.com
 ||sentry.wixpress.com
+
+! xiaomi.com
+@@||awsusor0.fds.api.xiaomi.com^$important
 
 ! yahoo.com
 ||c2shb.pubgw.yahoo.com
