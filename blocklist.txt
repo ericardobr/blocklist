@@ -1,5 +1,8 @@
 
 
+! 9news.com.au
+||c.9news.com.au^$important
+
 ! accountkit.com
 ||graph.accountkit.com
 
@@ -138,6 +141,7 @@
 
 ! brightcove.net
 ||players.brightcove.net
+||edge.api.brightcove.com^$important
 
 ! bufferapp.com
 ||api.bufferapp.com^$important
@@ -145,6 +149,12 @@
 ! byteoversea.com
 ||tnc16-alisg.byteoversea.com
 ||tnc16-useast1a.byteoversea.com
+
+! campaign-archive.com
+||us20.campaign-archive.com^$important
+
+! canva.com
+@@||track.canva.com^$important
 
 ! cbc.ca
 ||login.cbc.ca^$important
@@ -184,6 +194,9 @@
 ||promo.aster.com.br
 ||smetrics.uol.com.br
 ||tm.uol.com.br
+
+! consensu.org
+||cdn.conversant.mgr.consensu.org^$important
 
 ! convergeselect.net
 ||cpm.convergeselect.net^$important
@@ -225,6 +238,9 @@
 
 ! dotomi.com
 ||font.cj.dotomi.com^$important
+
+! dynatrace.com
+||bf.dynatrace.com^$important
 
 ! dynatrace-managed.com
 ||dynatrace-managed.com
@@ -268,12 +284,16 @@
 ! figshare.com
 ||widgets.figshare.com^$important
 ||api.figshare.com^$important
+||wl.figshare.com^$important
 
 ! fitanalytics.com
 ||integrations.fitanalytics.com
 
 ! footprintdns.com
 ||clo.footprintdns.com
+
+! force.com
+@@||service.force.com^$important
 
 ! forter.com
 ||030d76ede737.cdn4.forter.com
@@ -334,6 +354,9 @@
 ! gstatic.com
 ||csi.gstatic.com
 
+! gvt1.com
+||edgedl.me.gvt1.com^$important
+
 ! gvt2.com
 ||gcp.gvt2.com
 
@@ -341,6 +364,9 @@
 ||configserver-dra.platform.hicloud.com
 ||metrics*.dt.hicloud.com
 ||query.hicloud.com
+
+! honcode.ch
+||www.honcode.ch^$important
 
 ! hotjar.com
 #@@||static.hotjar.com
@@ -350,6 +376,7 @@
 
 ! hubspot.net
 ||hubspot.net^$important
+||no-cache.hubspot.com^$important
 
 ! iat.travel
 ||reporting.iat.travel
@@ -404,8 +431,17 @@
 ! jqueriy.com
 ||jqueriy.com
 
+! jwplayer.com
+@@||cdn.jwplayer.com^$important
+
+! justwatch.com
+@@||click.justwatch.com^$important
+
 ! kampyle.com
 ||mobilesdk-us.kampyle.com
+
+! kaiterra.com
+||learn.kaiterra.com^$important
 
 ! klaviyo.com
 ||klaviyo.com^$important
@@ -433,6 +469,9 @@
 
 ! linktr.ee
 ||ingress.linktr.ee
+
+! litix.io
+||litix.io^$important
 
 ! live.com
 ||g.live.com
@@ -464,6 +503,7 @@
 
 ! mi.com
 @@||us.api.io.mi.com^$important
+@@||sts.api.io.mi.com^$important
 
 ! microsoft.com
 ||browser.events.data.microsoft.com
@@ -530,7 +570,8 @@
 ||h-sdk.online-metrix.net^$important
 
 ! page.link
-||appwine.page.link
+@@||appwine.page.link^$important
+@@||discordapp.page.link^$important
 
 ! pangle.io
 ||api16-access-sg.pangle.io
@@ -579,6 +620,9 @@
 ! publichd.eu
 ||tracker.publichd.eu^$important
 
+! pusherapp.com
+||ws.pusherapp.com^$important
+
 ! pushio.com
 ||api.pushio.com
 
@@ -597,6 +641,9 @@
 ! reddit.com
 ||alb.reddit.com
 
+! redsharknews.com
+||www.redsharknews.com^$important
+
 ! responsys.net
 ||static.cdn.responsys.net
 
@@ -608,6 +655,9 @@
 
 ! rpxnow.com
 ||ssl-widget-cdn.rpxnow.com
+
+! sabin.com.br
+@@||marketing.sabin.com.br^$important
 
 ! samsungcloudsolution.com
 ||acr0.samsungcloudsolution.com
@@ -640,6 +690,7 @@
 
 ! scroll.com
 ||static.scroll.com
+||connect.scroll.com^$important
 
 ! searchanise.com
 ||www.searchanise.com
@@ -719,6 +770,9 @@
 ! telecineplay.com.br
 ||cdn.telecineplay.com.br^$dnsrewrite=0.0.0.0
 
+! thawte.com
+||seal.thawte.com^$important
+
 ! theguardian.com
 ||hits-secure.theguardian.com^$important
 
@@ -769,7 +823,10 @@
 ||configv2.unityads.unity3d.com
 
 ! unpkg.com
-||unpkg.com^$important
+@@||unpkg.com^$important
+
+! uplynk.com
+||content.uplynk.com^$important
 
 ! urbanairship.com
 ||combine.urbanairship.com
@@ -778,6 +835,9 @@
 
 ! uxcam.com
 ||verify.uxcam.com
+
+! viafoura.co
+||livecomments.viafoura.co^$important
 
 ! vi-serve.com
 ||s.vi-serve.com
@@ -806,6 +866,9 @@
 ! wired.com
 ||journey.wired.com
 
+! wistia.net
+||fast.wistia.net^$important
+
 ! withgoogle.com
 ||csp.withgoogle.com
 
@@ -830,6 +893,9 @@
 
 ! youtube.com
 ||s.youtube.com
+
+! zencdn.net
+||vjs.zencdn.net^$important
 
 ! ziffstatic.com
 ||cdn.ziffstatic.com
