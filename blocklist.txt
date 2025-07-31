@@ -708,7 +708,7 @@
 ||browser.sentry-cdn.com
 
 ! sentry.io
-||sentry.io
+!||sentry.io
 
 ! seucreditodigital.com.br
 ||conteudo.seucreditodigital.com.br^$important
